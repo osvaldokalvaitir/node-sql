@@ -9,7 +9,7 @@
 ![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-sql.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)  
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Node.js%20SQL&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-sql%2Fmaster%2FInsomnia.json%3Ftoken%3DAJUPLGNANF54J6LTP62KRE26LKIMI)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Node.js%20SQL&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-sql%2Fmaster%2FInsomnia.json%3Ftoken%3DAJUPLGLUR75SL4OQNRZWCZ26LKLEA)
 
 Aplicação usando Node.js, Express, Nodemon, Sequelize, pg e pg-hstore.
 
