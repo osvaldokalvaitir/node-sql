@@ -1,15 +1,15 @@
-# Node - SQL
+# Node.js - SQL
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-tindev/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-sql.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-sql.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-sql.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-sql.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-sql.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-sql.svg?color=blueviolet)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-sql/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-sql.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-sql.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-sql.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-sql.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-sql.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-sql.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)  
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Node.js%20SQL&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnode-sql%2Fmaster%2FInsomnia.json%3Ftoken%3DAJUPLGLUR75SL4OQNRZWCZ26LKLEA)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Node.js%20SQL&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-sql%2Fmaster%2FInsomnia.json%3Ftoken%3DAJUPLGLUR75SL4OQNRZWCZ26LKLEA)
 
 Aplicação usando Node.js, Express, Nodemon, Sequelize, pg e pg-hstore.
 
