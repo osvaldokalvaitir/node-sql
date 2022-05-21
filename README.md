@@ -1,98 +1,61 @@
-# Node.js - SQL
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-sql/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-sql.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-sql.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-sql.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-sql.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-sql.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-sql.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)  
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Node.js%20SQL&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-sql%2Fmaster%2FInsomnia.json%3Ftoken%3DAJUPLGLUR75SL4OQNRZWCZ26LKLEA)
+<h3 align="center">
+  Node.js - SQL
+</h3>
 
-Aplicação usando Node.js, Express, Nodemon, Sequelize, pg e pg-hstore.
+<p align="center">
+  :file_folder: Application using Node.js, Express, Nodemon, Sequelize, pg, pg-hstore, Insomnia, Docker and Postbird
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-sql.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-sql.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
-  
-  - [APIs](#apis)  
+Open terminal:
 
-  - [Ferramentas](#ferramentas)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/nodejs-sql
 
-## Desenvolvimento
+# Entry in folder
+cd nodejs-sql
 
-### Configuração do Ambiente
+# Install deps with npm or yarn
+npm install | yarn
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-### Instalação do Projeto
+Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), [PostgreSQL Docker Image kartoza-postgis](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/kartoza-postgis.md), [Postbird](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/postgresql/postbird.md).
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Node.js%20SQL&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-sql%2Fmain%2FInsomnia.json%3Ftoken%3DAJUPLGLUR75SL4OQNRZWCZ26LKLEA)
 
-### Execução do Projeto
+## :memo: License
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento` ou `Execução de Projeto para Produção`.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-## Utilizados no Projeto
+---
 
-### Bibliotecas
-
-- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
-
-- [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
-
-- [pg](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pg.md)
-
-- [pg-hstore](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/pg-hstore.md)
-
-- [Sequelize](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sequelize.md)
-
-- [sequelize-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/sequelize-cli.md)
-
-### APIs
-
-- **Interna**
-
-  - **Rotas**
-
-    - Usuários
-
-      - Lista todos os usuários
-      - Adiciona novos usuários
-
-    - Endereços
-
-      - Lista todos os endereços de um usuário
-      - Adiciona novos endereços para um usuário
-
-    - Tecnologias
-
-      - Lista todas as tecnologias de um usuário
-      - Adiciona novas tecnologias para um usuário
-      - Deleta tecnologias para um usuário
-
-    - Relatório
-
-      - Lista todos os usuários que tem email que termina com "@outlook.com" e que moram na rua "Rua Coronel Macedo" e que tem tecnologias que começam com "React"
-
-### Ferramentas
-
-- [Docker](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/docker.md)
-
-  - Imagem do PostgreSQL: [kartoza/postgis](https://github.com/osvaldokalvaitir/projects-settings/blob/master/virtualization/docker/images/kartoza-postgis.md)
-
-- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api-client/insomnia.md)
-
-- [Postbird](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/postgresql/postbird.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
