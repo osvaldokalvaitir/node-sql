@@ -43,7 +43,7 @@ cd nodejs-sql
 npm install | yarn
 
 # Launch the app with npm or yarn
-npm start | yarn start
+npm run start | yarn start
 ```
 
 Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [Docker](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/docker.md), [PostgreSQL Docker Image kartoza-postgis](https://github.com/osvaldokalvaitir/awesome/blob/main/src/containers/docker/images/kartoza-postgis.md), [Postbird](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/postgresql/postbird.md).
